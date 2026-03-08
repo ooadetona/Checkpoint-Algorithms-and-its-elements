@@ -26,4 +26,3 @@ function sentenceFunc(sentence){
     console.log(characterCount);
     console.log(vowelCount);
 }
-
